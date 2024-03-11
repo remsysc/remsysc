@@ -1,4 +1,4 @@
-![sysc](https://github-readme-stats.vercel.app/api?username=sysc-rem&show_icons=true&theme=dark)
+![sysc](https://github-readme-stats.vercel.app/api?username=sysc-rem&show_icons=true&theme=bear)
 
 <!--
 **sysc-rem/sysc-rem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
