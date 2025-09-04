@@ -22,8 +22,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=remsysc&layout=compact&theme=midnight-purple&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remsysc&theme=midnight-purple&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=remsysc&theme=shadow-purple)](https://git.io/streak-stats)
 </div>
 
 ---
