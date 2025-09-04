@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Rem
+# Hi there!  (˶˃ ᵕ ˂˶) .ᐟ.ᐟ I'm Rem
 
 <div align="center">
   
-### 🚀 Backend Developer | Spring Boot Enthusiast | Java Specialist
+### ⌯⌲ Backend Developer | Spring Boot Enthusiast | Java Specialist
 
 *Building robust, scalable server-side solutions with modern Java technologies*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## ⋆⭒˚.⋆ GitHub Statistics
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 About Me
+## ⟡ About Me
 
 ```java
 public class BackendDeveloper {
@@ -51,7 +51,7 @@ public class BackendDeveloper {
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙ Tech Stack
 
 ### **Core Backend Technologies**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -86,13 +86,13 @@ public class BackendDeveloper {
 
 
 
-### 🏗️ [Blog Post Backend API](https://github.com/remsysc/workshop) *(In Progress)*
+### ➣ [Blog Post Backend API](https://github.com/remsysc/workshop) *(In Progress)*
 **Spring Boot Microservice** | *Current*
 ```
 🔹 RESTful API with JWT authentication
 🔹 Database integration with JPA/Hibernate
 ```
-### 🦁 [Zuuki - Animal Inventory System](https://github.com/remsysc/zuuki)
+### ➣ [Zuuki - Animal Inventory System](https://github.com/remsysc/zuuki)
 **Java Console Application** | *Recently Completed*
 ```
 🔹 CRUD operations with robust data validation
@@ -102,7 +102,7 @@ public class BackendDeveloper {
 ```
 **Tech Stack**: `Java` `Console Application` `Data Structures`
 
-### 🏗️ [E-Commerce Backend API](https://github.com/remsysc/workshop) *(In Progress)*
+### ➣ [E-Commerce Backend API](https://github.com/remsysc/workshop) *(In Progress)*
 **Spring Boot Microservice** | *Almost Done*
 ```
 🔹 RESTful API with JWT authentication
@@ -112,7 +112,7 @@ public class BackendDeveloper {
 ```
 **Tech Stack**: `Spring Boot` `Spring Security` `MySQL` `JWT` `Swagger`
 
-### 📊 [Task Management System](https://github.com/remsysc/task-manager) *(Planned)*
+### ➣ [Task Management System](https://github.com/remsysc/task-manager) *(Planned)*
 **Spring Boot + React** | *Next Project*
 ```
 🔹 Role-based access control
@@ -124,7 +124,7 @@ public class BackendDeveloper {
 
 ---
 
-## 🎓 Learning Journey
+## ✎ᝰ. Learning Journey
 
 ### **Currently Mastering**
 - 🏗️ **Microservices Architecture** - Breaking down monoliths into scalable services
@@ -145,7 +145,7 @@ public class BackendDeveloper {
 
 ---
 
-## 💼 What I'm Looking For
+## ᕙ(⇀‸↼‶)ᕗ What I'm Looking For
 
 ### **Ideal Role**: Backend Developer (Entry Lvl)
 ```
@@ -166,7 +166,7 @@ public class BackendDeveloper {
 
 ---
 
-## 📈 Activity & Contributions
+## ╰┈➤ Activity & Contributions
 
 ### **2025 Focus Areas**
 - 🔥 **50+ commits** this quarter on personal projects
@@ -174,13 +174,9 @@ public class BackendDeveloper {
 - 💻 **Building portfolio** of backend applications
 - 🌐 **Contributing** to open-source when possible
 
-### **Coding Activity**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
-## 🤝 Let's Connect!
+## ✦ Let's Connect!
 
 <div align="center">
 
