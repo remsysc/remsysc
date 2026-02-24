@@ -63,10 +63,21 @@ Frontend    →  React · Vite
 
 ---
 
+## `$ git stats`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=remsysc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=6B8AFF&fire=6B8AFF&currStreakLabel=6B8AFF)](https://git.io/streak-stats)
+
+
+</div>
+
+---
+
 <div align="center">
 
 `heremyas004@proton.me` · Philippines · Open to remote
 
-![Profile Views](https://komarev.com/ghpvc/?username=remsysc&label=views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=remsysc&label=views&color=6B8AFF&style=flat-square)
 
 </div>
