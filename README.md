@@ -33,9 +33,9 @@ bulagfaust/     ← full-stack CMS  [in progress]
 
 ### ◈ BulagFaust
 
-A full-stack content management system — Spring Boot REST API, JWT authentication, PostgreSQL, and a React frontend. Fully containerized with Docker Compose.
+A back-end of Blog Post system — Spring Boot REST API, JWT authentication, and PostgreSQL. Fully containerized with Docker Compose.
 
-→ [github.com/remsysc/workshop](https://github.com/remsysc/workshop)
+→ [github.com/remsysc/workshop](https://github.com/remsysc/bulagfaust)
 
 ---
 
