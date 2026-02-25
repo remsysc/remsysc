@@ -44,10 +44,8 @@ A full-stack content management system — Spring Boot REST API, JWT authenticat
 ```
 Languages   →  Java 25
 Frameworks  →  Spring Boot · Spring Security · Spring Data JPA
-Databases   →  PostgreSQL · MySQL · MongoDB · Redis
+Databases   →  PostgreSQL · MySQL 
 Infra       →  Docker · Maven · Nginx · Git
-Testing     →  JUnit 5 · Mockito
-Frontend    →  React · Vite
 ```
 
 ---
