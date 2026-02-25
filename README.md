@@ -35,7 +35,7 @@ bulagfaust/     ← full-stack CMS  [in progress]
 
 A back-end of Blog Post system — Spring Boot REST API, JWT authentication, and PostgreSQL. Fully containerized with Docker Compose.
 
-→ [github.com/remsysc/workshop](https://github.com/remsysc/bulagfaust)
+→ [github.com/remsysc/bulagfaust](https://github.com/remsysc/bulagfaust)
 
 ---
 
