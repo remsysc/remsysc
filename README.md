@@ -28,8 +28,9 @@ Backend developer building in the Spring ecosystem. I focus on how systems are s
 ## `$ ls projects/`
 
 ```
-bulagfaust/     ← full-stack CMS  [in progress]
-weather-API/    ← use of external API [in progress]
+bulagfaust/       ← full-stack CMS  [v1 done] [inactive]
+weather-API/      ← use of external API [done]
+bulagfaust-node/  ← use of external API [in progress]
 ```
 
 ### ◈ BulagFaust
@@ -37,6 +38,12 @@ weather-API/    ← use of external API [in progress]
 A back-end of Blog Post system — Spring Boot REST API, JWT authentication, and PostgreSQL. Fully containerized with Docker Compose.
 
 → [github.com/remsysc/bulagfaust](https://github.com/remsysc/bulagfaust)
+
+### ◈ BulagFaust- Node / Express
+
+A project to transition my knowledge into node / express js
+
+→ [github.com/remsysc/bulagfaust-node](https://github.com/remsysc/bulagfaust-node)
 
 ### ◈ Weather API [ROADMAP.SH]
 
