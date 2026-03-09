@@ -30,7 +30,7 @@ Backend developer building in the Spring ecosystem. I focus on how systems are s
 ```
 bulagfaust/       ← full-stack CMS  [v1 done] [inactive]
 weather-API/      ← use of external API [done]
-bulagfaust-node/  ← use of external API [in progress]
+bulagfaust-ts/  ← TS copy of bulagfaust [in progress]
 ```
 
 ### ◈ BulagFaust
@@ -39,11 +39,11 @@ A back-end of Blog Post system — Spring Boot REST API, JWT authentication, and
 
 → [github.com/remsysc/bulagfaust](https://github.com/remsysc/bulagfaust)
 
-### ◈ BulagFaust- Node / Express
+### ◈ BulagFaust- TS / Express
 
 A project to transition my knowledge into node / express js
 
-→ [github.com/remsysc/bulagfaust-node](https://github.com/remsysc/bulagfaust-node)
+→ [github.com/remsysc/bulagfaust-ts](https://github.com/remsysc/bulagfaust-ts)
 
 ### ◈ Weather API [ROADMAP.SH]
 
