@@ -41,7 +41,7 @@ A back-end of Blog Post system — Spring Boot REST API, JWT authentication, and
 
 ### ◈ BulagFaust- TS / Express
 
-A project to transition my knowledge into node / express js
+A project to transition my knowledge into TS / express 
 
 → [github.com/remsysc/bulagfaust-ts](https://github.com/remsysc/bulagfaust-ts)
 
