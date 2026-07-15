@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
 ```
 
-**Backend Developer** — Java · Spring Boot · PostgreSQL
+**Backend Developer** — Express · Spring Boot · Laravel 
 
 [![Email](https://img.shields.io/badge/heremyas004%40proton.me-1B1B1B?style=flat-square&logo=protonmail&logoColor=white)](mailto:heremyas004@proton.me)
 [![GitHub](https://img.shields.io/badge/remsysc-1B1B1B?style=flat-square&logo=github&logoColor=white)](https://github.com/remsysc)
@@ -21,33 +21,47 @@
 
 ## `$ whoami`
 
-Backend developer building in the Spring ecosystem. I focus on how systems are structured — clean separation between layers, intentional data access patterns, and security that doesn't get bolted on as an afterthought. Right now I'm deepening my knowledge of microservices, containerization, and cloud deployment.
+I focus on how systems are structured — clean separation between layers, intentional data access patterns, and security that doesn't get bolted on as an afterthought. Right now I'm branching out by rebuilding the same domain problems in Express/TypeScript and Laravel/PHP to compare tradeoffs across ecosystems, and picking up microservices, containerization, and cloud deployment along the way.
 
 ---
 
 ## `$ ls projects/`
 
 ```
-bulagfaust/       ← full-stack CMS  [v1 done] [inactive]
-weather-API/      ← use of external API [done]
-bulagfaust-ts/  ← TS copy of bulagfaust [in progress]
+bulag-faust-node/   ← Spring Boot → Express/TS port      [active]
+Doraemon-s-Pocket/  ← team inventory management system    [Sprint 1/6] [active]
+console-rpg/        ← Java OOP console RPG                [active]
+bulagfaust/         ← full-stack CMS                       [v1 done] [inactive]
+weather-API/        ← use of external API                  [done]
 ```
+
+### ◈ BulagFaust-Node (TS / Express)
+
+A rebuild of my BulagFaust blog-post API in Node.js + Express, translating what I already know from Spring Boot 1:1 — clean architecture (repository → service → controller), JWT auth with role-based middleware, Prisma ORM over PostgreSQL, and Zod for request validation. Auth, categories, tags, and posts are functional; pagination hardening and rate limiting are next.
+
+→ [github.com/remsysc/bulag-faust-node](https://github.com/remsysc/bulag-faust-node)
+
+### ◈ Doraemon's Pocket
+
+A team-built warehouse inventory management system for Admin, Purchasing Manager, and Warehouse Staff roles. Append-only transaction ledger, derived stock snapshots (on-hand / reserved / available), ABC/XYZ classification, EOQ/reorder-point calculations, and FEFO expiry alerts. Built on Laravel 13 with Sanctum auth, PostgreSQL, and a Vite + Tailwind frontend.
+
+→ [github.com/remsysc/Doraemon-s-Pocket](github.com/remsysc/Doraemon-s-Pocket)
+
+### ◈ Console RPG (Java)
+
+A turn-based console RPG built as a design-pattern exercise rather than "just a game" — Strategy for combat behavior (console vs. enemy AI action selection), Factory for player/enemy creation, Builder for character classes, and a Trait interface for pluggable status effects (crits, burns, etc.) without touching existing combat code. Pure Java, no frameworks.
+
+→ [github.com/remsysc/GayRPG](https://github.com/remsysc/gayrpg)
 
 ### ◈ BulagFaust
 
-A back-end of Blog Post system — Spring Boot REST API, JWT authentication, and PostgreSQL. Fully containerized with Docker Compose.
+A back-end Blog Post system — Spring Boot REST API, JWT authentication, and PostgreSQL. Fully containerized with Docker Compose.
 
 → [github.com/remsysc/bulagfaust](https://github.com/remsysc/bulagfaust)
 
-### ◈ BulagFaust- TS / Express
-
-A project to transition my knowledge into TS / express 
-
-→ [github.com/remsysc/bulagfaust-ts](https://github.com/remsysc/bulagfaust-ts)
-
 ### ◈ Weather API [ROADMAP.SH]
 
-A simple use of external API project for [roadmap](https://roadmap.sh/projects/weather-api-wrapper-service) 
+A simple use-of-external-API project for [roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service).
 
 → [github.com/remsysc/weather-api](https://github.com/remsysc/weather-api)
 
@@ -56,10 +70,10 @@ A simple use of external API project for [roadmap](https://roadmap.sh/projects/w
 ## `$ cat stack.txt`
 
 ```
-Languages   →  Java 25
-Frameworks  →  Spring Boot · Spring Security · Spring Data JPA
-Databases   →  PostgreSQL · MySQL 
-Infra       →  Docker · Maven · Nginx · Git
+Languages   →  TypeScript · PHP 8.3 · Java
+Frameworks  →  Express  · Express.js · Laravel 13 · Spring Boot
+Databases   →  PostgreSQL · MySQL
+Infra       →  Docker · Maven · npm · Composer · Git
 ```
 
 ---
@@ -67,10 +81,12 @@ Infra       →  Docker · Maven · Nginx · Git
 ## `$ tail -f learning.log`
 
 ```
-[active]   Microservices patterns — service discovery, API gateway
-[active]   AWS fundamentals — EC2, RDS, deployment pipelines
+[active]   Node.js/Express architecture — comparing patterns against Spring Boot
+[active]   Laravel — Eloquent, Sanctum auth, migrations, team collaboration workflow
+[active]   Java design patterns — Strategy, Factory, Builder in a console RPG
+[queued]   Microservices patterns — service discovery, API gateway
+[queued]   AWS fundamentals — EC2, RDS, deployment pipelines
 [queued]   Database query optimization — indexes, execution plans
-[queued]   Integration testing — Spring Boot Test, Testcontainers
 ```
 
 ---
@@ -80,7 +96,6 @@ Infra       →  Docker · Maven · Nginx · Git
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=remsysc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=6B8AFF&fire=6B8AFF&currStreakLabel=6B8AFF)](https://git.io/streak-stats)
-
 
 </div>
 
