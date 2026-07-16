@@ -21,7 +21,7 @@
 
 ## `$ whoami`
 
-I focus on how systems are structured — clean separation between layers, intentional data access patterns, and security that doesn't get bolted on as an afterthought. Right now I'm branching out by rebuilding the same domain problems in Express/TypeScript and Laravel/PHP to compare tradeoffs across ecosystems, and picking up microservices, containerization, and cloud deployment along the way.
+I am Rem a 3rd Year CS student. I mainly focus on how systems are structured — clean separation between layers, intentional data access patterns, and security that doesn't get bolted on as an afterthought. Right now I'm branching out by rebuilding the same domain problems in Express/TypeScript and Laravel/PHP to compare tradeoffs across ecosystems, and picking up microservices, containerization, and cloud deployment along the way.
 
 ---
 
