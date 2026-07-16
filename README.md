@@ -47,12 +47,6 @@ A team-built warehouse inventory management system for Admin, Purchasing Manager
 
 → [github.com/remsysc/Doraemon-s-Pocket](github.com/remsysc/Doraemon-s-Pocket)
 
-### ◈ Console RPG (Java)
-
-A turn-based console RPG built as a design-pattern exercise rather than "just a game" — Strategy for combat behavior (console vs. enemy AI action selection), Factory for player/enemy creation, Builder for character classes, and a Trait interface for pluggable status effects (crits, burns, etc.) without touching existing combat code. Pure Java, no frameworks.
-
-→ [github.com/remsysc/GayRPG](https://github.com/remsysc/gayrpg)
-
 ### ◈ BulagFaust
 
 A back-end Blog Post system — Spring Boot REST API, JWT authentication, and PostgreSQL. Fully containerized with Docker Compose.
