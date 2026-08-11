@@ -40,7 +40,7 @@
 
 **Philosophy** › Write code that your future self won't curse at
 
-**Status** › Grinding towards mastery...
+**Status** › Grinding GW2 .. T ^T
 
 &nbsp;
 
@@ -154,9 +154,23 @@
 
 <div align="center">
 
+<img src="https://media1.tenor.com/m/VRltdfI3FugAAAAC/durarara-celty-riding.gif" width="120"/>
+
+<br><br>
+
 <a href="https://github.com/remsysc/Doraemon-s-Pocket">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=remsysc&repo=Doraemon-s-Pocket&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="https://img.shields.io/badge/Doraemon's_Pocket-Inventory_Management_System-000000?style=for-the-badge&logo=laravel&logoColor=white" />
 </a>
+<br>
+<sub>Laravel API + React SPA | PostgreSQL | Sanctum Auth | Docker</sub>
+
+<br><br>
+
+<a href="https://github.com/remsysc/bulagfaust-ts">
+  <img src="https://img.shields.io/badge/bulagfaust--ts-Blog_API-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+<br>
+<sub>TypeScript | Express | Prisma | Docker</sub>
 
 </div>
 
@@ -192,6 +206,10 @@
 &nbsp;
 <a href="mailto:raipam44@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/remsysc">
+  <img src="https://img.shields.io/badge/remsysc-000000?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
