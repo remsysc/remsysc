@@ -15,31 +15,44 @@
 
 <br>
 
-## ⛩️ About Me
+## ›› About Me
 
-```yaml
-name: "remsysc"
-title: "Full Stack Developer"
-location: "Philippines"
-current_quest: "Building scalable web applications"
-philosophy: "Write code that your future self won't curse at"
-```
+<div align="center">
 
-<br>
+<table>
+<tr><td>
 
-> _"The code you write today is the legacy you leave tomorrow."_
-> — 明日のために、今日コードを書く
+&nbsp;
+
+**Name** › remsysc
+
+**Class** › Full Stack Developer
+
+**Region** › Philippines
+
+**Current Quest** › Building scalable web applications
+
+**Philosophy** › Write code that your future self won't curse at
+
+**Status** › Grinding towards mastery...
+
+&nbsp;
+
+</td></tr>
+</table>
+
+</div>
 
 <br>
 
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## 🗡️ Tech Arsenal
+## ›› Tech Arsenal
 
 <div align="center">
 
-### ⚔️ Primary Weapons
+### — Primary Weapons
 
 <table>
 <tr>
@@ -70,7 +83,7 @@ philosophy: "Write code that your future self won't curse at"
 </tr>
 </table>
 
-### 🛡️ Support Skills
+### — Support Skills
 
 <table>
 <tr>
@@ -108,7 +121,7 @@ philosophy: "Write code that your future self won't curse at"
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## 📊 Battle Stats
+## ›› Battle Stats
 
 <div align="center">
 
@@ -127,7 +140,7 @@ philosophy: "Write code that your future self won't curse at"
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## 🏯 Featured Projects
+## ›› Featured Projects
 
 <div align="center">
 
@@ -142,7 +155,7 @@ philosophy: "Write code that your future self won't curse at"
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## 🎌 Activity Graph
+## ›› Activity Graph
 
 <div align="center">
 
@@ -155,7 +168,7 @@ philosophy: "Write code that your future self won't curse at"
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## 🌐 Connect
+## ›› Connect
 
 <div align="center">
 
