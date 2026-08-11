@@ -154,7 +154,7 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/VRltdfI3FugAAAAC/durarara-celty-riding.gif" width="120"/>
+<img src="https://media1.tenor.com/m/VRltdfI3FugAAAAC/durarara-celty-riding.gif" width="400"/>
 
 <br><br>
 
