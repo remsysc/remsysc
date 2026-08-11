@@ -1,12 +1,17 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=remsysc&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=ソフトウェアエンジニア&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Rem&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=ソフトウェアエンジニア&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C+Building+systems+that+last+%E3%80%8D;Full+Stack+Developer+%7C+Laravel+%2B+React;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+Loading+next+project...+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
 </a>
+
+<br>
+
+<!-- Celty Sturluson - Durarara!! -->
+<img src="https://media1.tenor.com/m/qjDM4tUiAwwAAAAC/celty-sturluson-durara.gif" width="400"/>
 
 </div>
 
@@ -20,7 +25,8 @@
 <div align="center">
 
 <table>
-<tr><td>
+<tr>
+<td>
 
 &nbsp;
 
@@ -38,7 +44,11 @@
 
 &nbsp;
 
-</td></tr>
+</td>
+<td>
+  <img src="https://media1.tenor.com/m/wng6bb5XnHoAAAAC/durarara-drrr.gif" width="200"/>
+</td>
+</tr>
 </table>
 
 </div>
@@ -168,12 +178,20 @@
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## ›› Connect
+## ›› Socials
 
 <div align="center">
 
+<img src="https://media1.tenor.com/m/dsNfIx5KFFEAAAAC/celty-sturluson.gif" width="100"/>
+
+<br><br>
+
 <a href="https://github.com/remsysc">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:raipam44@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
