@@ -205,6 +205,14 @@
 <a href="https://discord.com/users/remsysc">
   <img src="https://img.shields.io/badge/remsysc-000000?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://www.facebook.com/remsysc">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/remsysc">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
