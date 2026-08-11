@@ -11,7 +11,7 @@
 <br>
 
 <!-- Celty Sturluson - Durarara!! -->
-<img src="https://media1.tenor.com/m/qjDM4tUiAwwAAAAC/celty-sturluson-durara.gif" width="400"/>
+<img src="https://media1.tenor.com/m/qjDM4tUiAwwAAAAC/celty-sturluson-durara.gif" width="280"/>
 
 </div>
 
@@ -135,12 +135,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=remsysc&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=false" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remsysc&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&title_color=ffffff&text_color=c9d1d9&hide_border=false" height="170"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=remsysc&theme=tokyonight&background=0d1117&border=1a1a2e&stroke=1a1a2e&ring=58a6ff&fire=ff6e96&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" width="600"/>
 
 </div>
@@ -154,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/VRltdfI3FugAAAAC/durarara-celty-riding.gif" width="400"/>
+<img src="https://media1.tenor.com/m/VRltdfI3FugAAAAC/durarara-celty-riding.gif" width="250"/>
 
 <br><br>
 
@@ -196,7 +190,7 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/dsNfIx5KFFEAAAAC/celty-sturluson.gif" width="100"/>
+<img src="https://media1.tenor.com/m/dsNfIx5KFFEAAAAC/celty-sturluson.gif" width="140"/>
 
 <br><br>
 
