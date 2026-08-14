@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C+Building+systems+that+last+%E3%80%8D;Full+Stack+Developer+%7C+Laravel+%2B+React;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+Loading+next+project...+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C+Building+systems+that+last+%E3%80%8D;Back-End+Developer+%7C+Laravel+%2B+Express+%2B+Spring;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+Loading+next+project...+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
 </a>
 
 <br>
@@ -39,11 +39,11 @@
 
 **Name** › remsysc
 
-**Class** › Full Stack Developer
+**Class** › Back-End Developer
 
 **Region** › Philippines
 
-**Current Quest** › Building scalable web applications
+**Current Quest** › Building scalable backend systems & APIs
 
 **Philosophy** › Write code that your future self won't curse at
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-### — Primary Weapons
+### — Primary Weapons (Back-End)
 
 <table>
 <tr>
@@ -78,8 +78,12 @@
   <br><sub><b>Laravel</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
-  <br><sub><b>React</b></sub>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" />
+  <br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
+  <br><sub><b>Spring Boot</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" />
@@ -90,8 +94,8 @@
   <br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48" alt="JavaScript" />
-  <br><sub><b>JavaScript</b></sub>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+  <br><sub><b>Java</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" />
@@ -109,12 +113,8 @@
   <br><sub><b>Docker</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" />
-  <br><sub><b>Bootstrap</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" />
-  <br><sub><b>Vite</b></sub>
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" height="48" alt="Prisma" />
+  <br><sub><b>Prisma</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
@@ -130,6 +130,8 @@
 </td>
 </tr>
 </table>
+
+
 
 </div>
 
