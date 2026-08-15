@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C+Building+systems+that+last+%E3%80%8D;Back-End+Developer+%7C+Laravel+%2B+Express+%2B+Spring;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+Loading+next+project...+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E3%80%8C+Building+systems+that+last+%E3%80%8D;Back-End+Developer+%7C+Laravel+%2B+Express+%2B+Spring;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+Loading+next+project...+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
 </a>
 
 <br>
